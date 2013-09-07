@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriteriaApp", "CriteriaApp\CriteriaApp.csproj", "{65D51874-32EC-459F-9D49-8D7741A62027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SapCriteria", "SapCriteria\SapCriteria.csproj", "{921E81C3-93C4-438A-A2EA-BFBC995C74A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65D51874-32EC-459F-9D49-8D7741A62027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D51874-32EC-459F-9D49-8D7741A62027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D51874-32EC-459F-9D49-8D7741A62027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D51874-32EC-459F-9D49-8D7741A62027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{921E81C3-93C4-438A-A2EA-BFBC995C74A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921E81C3-93C4-438A-A2EA-BFBC995C74A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921E81C3-93C4-438A-A2EA-BFBC995C74A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921E81C3-93C4-438A-A2EA-BFBC995C74A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
