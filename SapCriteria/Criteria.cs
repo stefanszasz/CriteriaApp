@@ -2,7 +2,7 @@
 {
     public class Criteria
     {
-        public static InfoProvider Info
+        public static AbstractProvider Info
         {
             get
             {
@@ -10,7 +10,7 @@
             }
         }
 
-        public static MultiProvider MultiProvider
+        public static AbstractProvider MultiProvider
         {
             get
             {
